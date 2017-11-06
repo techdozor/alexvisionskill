@@ -1,5 +1,9 @@
 # Alexa Vision API Skill
 
+### The MIT License
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  
+`[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)`
+
 ## Introduction
 Alexa Vision Skill depends on the nodejs implementation that levelrages Google Vision API: https://github.com/techdozor/visionapi
 
