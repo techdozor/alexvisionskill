@@ -14,6 +14,7 @@ Below diagram outlines how it works
 ![Settings Window](https://github.com/techdozor/alexvisionskill/blob/master/AWSProcess.png)
 
 **server.js** can be found in https://github.com/techdozor/visionapi
+
 **index.js** is in thie repository
 
 ## Step by set for setup
