@@ -22,6 +22,7 @@ Below diagram outlines how it works
 1. Deploy and configure https://github.com/techdozor/visionapi as described in README.
 2. Deploy index.js in this repository as part of Lambda. Most of the details are outlined in the following documentation: https://developer.amazon.com/docs/custom-skills/host-a-custom-skill-as-an-aws-lambda-function.html
 3. Create new Alexa Skill. I found the following videos to be userful: https://www.youtube.com/channel/UCbx0SPpWT6yB7_yY_ik7pmg this one is especially good as it takes you through all the steps in one video: https://www.youtube.com/watch?v=L7-AlwYJs_k
+4. Make sure to specify the environment variables pointing to the location of the visionapi (see above) var httpUrl = 'http://' + process.env.SERVER_ADDR + ':' + process.env.SERVER_PORT + '/result'
 
 Have fun!
 
