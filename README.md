@@ -26,6 +26,10 @@ Below diagram outlines how it works
 
 Have fun!
 
+### Future consideration and exansion of the project
+1. Experiment and adopt to one of the deep learning frameworks from AWS.
+2. Create a real-time by using a camera and let Alexa explain what she sees in real-time (or close to it).
+
 
 
 
