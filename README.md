@@ -1,10 +1,10 @@
-# Alexa Vision API Skill
+# Project Cyborg
 
 ### License Info
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Introduction
-This project was started as a Science Fair project for Cross Roads Elementary School in Irmo, SC (https://www.lexrich5.org/cris) by Dan (http://dan.techdozor.org). Main focus of this project is to introduce a new Alexa Vision SKill that can recognize images.
+This project was started as a Science Fair project for Cross Roads Elementary School in Irmo, SC (https://www.lexrich5.org/cris) by Dan (http://dan.techdozor.org). Main focus of this project is to introduce a new Alexa Vision Skill that can recognize images.
 This capability depends on the nodejs implementation that levelrages Google Vision API: https://github.com/techdozor/visionapi
 
 It is recommended for all of the compnents to be hosted on AWS (including AWS Lambda service).
