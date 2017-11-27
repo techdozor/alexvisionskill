@@ -1,4 +1,6 @@
-# Project Cyborg <img src="http://blog.techdozor.org/wp-content/uploads/2017/11/5.jpg" width="188">
+<img src="http://blog.techdozor.org/wp-content/uploads/2017/11/5.jpg" width="188">
+
+# Project Cyborg
 
 ### License Info
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
