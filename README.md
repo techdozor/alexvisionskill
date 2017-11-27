@@ -5,7 +5,7 @@
 
 What do you get when you mix artificial intelligence, cloud, and serverless?
 
-You are exactly right! You get a new open source initiative with the code name “Cyborg”. Cyborg is a representative of Software Defined Senses (SDSens) (first introduced as part of this project).
+You are exactly right! You get a new cognitive open source initiative with the code name “Cyborg”. Cyborg is a representative of Software Defined Senses (SDSens) (first introduced as part of this project).
 
 Currently this open source project and overall is pretty young and We have a vision of expanding it further whether myself or with the help of the community (assuming interest).
 
