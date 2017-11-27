@@ -1,4 +1,4 @@
-# Project Cyborg
+# Project Cyborg ![Settings Window](http://blog.techdozor.org/wp-content/uploads/2017/11/5.jpg)
 
 ### License Info
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
